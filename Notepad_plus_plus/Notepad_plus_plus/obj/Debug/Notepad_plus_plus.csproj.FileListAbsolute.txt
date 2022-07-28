@@ -1,0 +1,14 @@
+E:\Fərdi Fəaliyyətlər\Notepad_plus_plus\Notepad_plus_plus\bin\Debug\Notepad_plus_plus.exe.config
+E:\Fərdi Fəaliyyətlər\Notepad_plus_plus\Notepad_plus_plus\bin\Debug\Notepad_plus_plus.exe
+E:\Fərdi Fəaliyyətlər\Notepad_plus_plus\Notepad_plus_plus\bin\Debug\Notepad_plus_plus.pdb
+E:\Fərdi Fəaliyyətlər\Notepad_plus_plus\Notepad_plus_plus\bin\Debug\FastColoredTextBox.xml
+E:\Fərdi Fəaliyyətlər\Notepad_plus_plus\Notepad_plus_plus\obj\Debug\Notepad_plus_plus.Main.resources
+E:\Fərdi Fəaliyyətlər\Notepad_plus_plus\Notepad_plus_plus\obj\Debug\Notepad_plus_plus.Properties.Resources.resources
+E:\Fərdi Fəaliyyətlər\Notepad_plus_plus\Notepad_plus_plus\obj\Debug\Notepad_plus_plus.csproj.GenerateResource.cache
+E:\Fərdi Fəaliyyətlər\Notepad_plus_plus\Notepad_plus_plus\obj\Debug\Notepad_plus_plus.csproj.CoreCompileInputs.cache
+E:\Fərdi Fəaliyyətlər\Notepad_plus_plus\Notepad_plus_plus\obj\Debug\Notepad_plus_plus.csproj.CopyComplete
+E:\Fərdi Fəaliyyətlər\Notepad_plus_plus\Notepad_plus_plus\obj\Debug\Notepad_plus_plus.exe
+E:\Fərdi Fəaliyyətlər\Notepad_plus_plus\Notepad_plus_plus\obj\Debug\Notepad_plus_plus.pdb
+E:\Fərdi Fəaliyyətlər\Notepad_plus_plus\Notepad_plus_plus\obj\Debug\Notepad_plus_plus.Rename.resources
+E:\Fərdi Fəaliyyətlər\Notepad_plus_plus\Notepad_plus_plus\obj\Debug\Notepad_plus_plus.About.resources
+E:\Fərdi Fəaliyyətlər\Notepad_plus_plus\Notepad_plus_plus\obj\Debug\Notepad_plus_plus.csproj.AssemblyReference.cache
